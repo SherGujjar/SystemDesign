@@ -1,0 +1,7 @@
+
+x
+java:S1104"[Make stockObservable a static final constant or non-public and provide accessors if needed.(—ÁâÃ8Æ´œà1
+s
+java:S1104	"QMake email a static final constant or non-public and provide accessors if needed.(¾Æ†Ëıÿÿÿÿ8Æ´œà1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä„—ãÿÿÿÿÿ8Ç´œà1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ú½¼F8ñœà1
