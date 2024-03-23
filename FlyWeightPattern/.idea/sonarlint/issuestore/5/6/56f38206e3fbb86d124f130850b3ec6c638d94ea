@@ -1,0 +1,7 @@
+
+s
+java:S1104"VMake robotCache a static final constant or non-public and provide accessors if needed.(ıŸ¡8’×à¶ä1
+M
+java:S1444"0Make this "public static robotCache" field final(ıŸ¡8’×à¶ä1
+V
+java:S1118":Add a private constructor to hide the implicit public one.(ìçŞ8—×à¶ä1

@@ -1,2 +1,5 @@
-package org.example;public class WeightMachine {
+package org.example;
+
+public interface WeightMachine {
+    int measuredWeight();
 }

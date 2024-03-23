@@ -1,2 +1,7 @@
-package org.example;public interface IRobot {
+package org.example;
+
+public interface Irobot {
+
+    public void display(int x, int j);
+
 }

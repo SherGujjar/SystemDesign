@@ -1,2 +1,5 @@
-package org.example;public interface WeightMachineApapter {
+package org.example;
+
+public interface WeightMachineApapter {
+    double getWeightInKg();
 }

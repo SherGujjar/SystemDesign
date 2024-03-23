@@ -1,2 +1,4 @@
-package org.example;public interface States {
+package org.example;
+
+public interface States {
 }
