@@ -1,0 +1,17 @@
+
+p
+java:S1104"SMake floorId a static final constant or non-public and provide accessors if needed.(‡―‡‘8α£‡άζ1
+
+java:S1104
+"_Make elevatorCarManagers a static final constant or non-public and provide accessors if needed.(¬«ζνωÿÿÿÿ8α£‡άζ1
+t
+java:S1104"RMake floors a static final constant or non-public and provide accessors if needed.(΄μσζύÿÿÿÿ8α£‡άζ1
+u
+java:S1104"XMake elevatorCars a static final constant or non-public and provide accessors if needed.(‘½8α£‡άζ1
+J
+java:S1444"-Make this "public static floorId" field final(‡―‡‘8α£‡άζ1
+[
+java:S1444
+"9Make this "public static elevatorCarManagers" field final(¬«ζνωÿÿÿÿ8α£‡άζ1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(ηώχ8η£‡άζ1
