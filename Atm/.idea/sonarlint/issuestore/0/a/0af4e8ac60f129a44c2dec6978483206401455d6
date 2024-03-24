@@ -1,0 +1,12 @@
+
+w
+java:S3008
+"URename this field "PIN_NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‡ÕÌûÿÿÿÿ8—ÈĞæ1
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(ıÏÍ–8—ÈĞæ1
+C
+java:S1068"'Remove this unused "cvv" private field.(ÃÅ:8‘—ÈĞæ1
+L
+java:S1068"*Remove this unused "expiry" private field.(ºÌÖ²ÿÿÿÿÿ8‘—ÈĞæ1
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8‘—ÈĞæ1

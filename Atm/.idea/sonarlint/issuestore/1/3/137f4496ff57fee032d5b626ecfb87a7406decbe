@@ -1,0 +1,29 @@
+
+q
+java:S1192
+"UDefine a constant instead of duplicating this literal "Something went wrong" 7 times.(Ü®¦8¯£éÏæ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–À­í8°£éÏæ1
+Z
+java:S1610"8Convert the abstract class "AtmState" into an interface.(‰öÀ´üÿÿÿÿ8²£éÏæ1
+Q
+java:S1172	"4Remove these unused method parameters "atm", "crad".(ø¥ÖÌ8å€åĞæ1
+T	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ü®¦8³£éÏæ1
+X
+java:S1172";Remove these unused method parameters "atm", "card", "pin".(Ô€¸8ÖÕèĞæ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ü®¦8³£éÏæ1
+^
+java:S1172"<Remove these unused method parameters "atm", "card", "type".(‘Í×Èúÿÿÿÿ8¸ûƒÑæ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ü®¦8´£éÏæ1
+h
+java:S1172"FRemove these unused method parameters "atm", "card", "amountToDeduct".(ÜÉâ€şÿÿÿÿ8ÀŒ…Ñæ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ü®¦8´£éÏæ1
+V
+java:S1172"4Remove these unused method parameters "atm", "card".(ÒÚûÆùÿÿÿÿ8é¸†Ñæ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ü®¦8´£éÏæ1
+G
+java:S1172"*Remove this unused method parameter "atm".(€ÿ›ô8êşœÑæ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ü®¦8´£éÏæ1
+G
+java:S1172!"*Remove this unused method parameter "atm".(Œ€³€8Ï£Ñæ1
+T	java:S106""9Replace this use of System.out or System.err by a logger.(Ü®¦8´£éÏæ1
