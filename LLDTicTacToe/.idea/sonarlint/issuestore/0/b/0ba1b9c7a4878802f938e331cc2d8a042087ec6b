@@ -1,0 +1,15 @@
+
+d
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(âê°8»Áé…ç1
+U
+java:S1854"8Remove this useless assignment to local variable "game".(áö²ò8´×ë…ç1
+F
+java:S1481")Remove this unused "game" local variable.(áö²ò8¶×ë…ç1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8ÎÁé…ç1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Åä §8ÎÁé…ç1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÚŒù²ùÿÿÿÿ8ÎÁé…ç1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÎÁé…ç1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öÈÛ¡8ÎÁé…ç1
+Q
+java:S1144"5Remove this unused private "printBaordStatus" method.(¯×
+8ÎÁé…ç1
