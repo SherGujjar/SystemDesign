@@ -1,0 +1,8 @@
+
+r
+java:S1104	"UMake ballsList a static final constant or non-public and provide accessors if needed.(Ğ»˜8Ô¬Æ­ç1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úİ‰§şÿÿÿÿ8Ö¬Æ­ç1
+…
+java:S4165"hRemove this useless assignment; "overNumber" already holds the assigned value along all execution paths.(¢Ø±¬8Ø¬Æ­ç1
+L
+java:S1656"/Remove or correct this useless self-assignment.(¢Ø±¬8Û¬Æ­ç1

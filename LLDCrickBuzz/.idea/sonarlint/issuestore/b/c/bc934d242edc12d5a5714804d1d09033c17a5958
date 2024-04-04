@@ -1,0 +1,11 @@
+
+v
+java:S1104"TMake teamName a static final constant or non-public and provide accessors if needed.(ωνύϊÿÿÿÿ8†βε°η1
+
+java:S1104"]Make battingController a static final constant or non-public and provide accessors if needed.(ΑΗƒ—ϊÿÿÿÿ8†βε°η1
+z
+java:S1104"]Make bowlingController a static final constant or non-public and provide accessors if needed.(ΘΙτ―8†βε°η1
+{
+java:S1104"YMake teamScoreCard a static final constant or non-public and provide accessors if needed.(βύ¥ϊÿÿÿÿ8†βε°η1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶νόΩ8‡βε°η1
+]	java:S125"<This block of commented-out lines of code should be removed.(ΥΑ·ϊÿÿÿÿ8βε°η1
